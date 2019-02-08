@@ -50,7 +50,7 @@ body{
 
 /*网址链接的样式*/
 #menu a:link{
-    color: blue;
+    color: #00FF33;
     text-decoration: none;
    
 }
