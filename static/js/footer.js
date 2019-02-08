@@ -5,7 +5,7 @@ document.writeln("    &copy;2017-2019&nbsp;<a href=\'https://daohanggou.cn/\'>Da
 document.writeln("	&nbsp;<a href=\'https://daohanggou.wang\'>DaoHangGou.wang</a>");
 document.writeln("	&nbsp;<a href=\'https://daohanggou.cn/help/about.html\'>About</a>");
 document.writeln("	&nbsp;<a href=\'http://zhaokaifeng.com/?cat=168\'>Log</a>");
-document.writeln("	&nbsp;<a href=\'https://github.com/somebodyblog/IT-Web-Site-Navigation\'><img src=\'https://wx3.sinaimg.cn/mw690/006CBL8rly1fznfs70qe9j30e80e8gm8.jpg' height=\'20px\'></a>");
+document.writeln("	&nbsp;<a href=\'https://github.com/somebodyblog/IT-Web-Site-Navigation\'><img src=\'../image/footer/github.svg' height=\'20px\'></a>");
 document.writeln("");
 document.writeln("<!--百度统计 Start-->");
 document.writeln("<script>");
