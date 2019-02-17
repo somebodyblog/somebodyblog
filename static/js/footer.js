@@ -7,7 +7,7 @@ document.writeln("	&nbsp;<a href=\'https://daohanggou.cn/help/about.html\'>About
 document.writeln("	&nbsp;<a href=\'http://zhaokaifeng.com/?cat=168\'>Log</a>");
 document.writeln("	&nbsp;<a href=\'https://github.com/somebodyblog/IT-Web-Site-Navigation\'><img src=\'https://daohanggou.cn/static/image/footer/github.svg' height=\'20px\'></a>");
 document.writeln("");
-document.writeln("	&nbsp;<a href=\'https://www.upyun.com/\'><img src=\'https://daohanggou.cn/static/image/footer/upyun_logo.svg' height=\'20px\'></a>");
+document.writeln("	&nbsp;<a href=\'https://www.upyun.com/\'><img src=\'https://daohanggou.cn/static/image/footer/upyun_logo.png' height=\'20px\'></a>");
 document.writeln("");
 document.writeln("<!--百度统计 Start-->");
 document.writeln("<script>");
