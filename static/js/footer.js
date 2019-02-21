@@ -2,7 +2,7 @@ document.writeln("<footer>");
 document.writeln("<div class=\'footer1\' >");
 document.writeln("    <p class=\'footer2\' >");
 document.writeln("    &copy;2017-2019&nbsp;<a href=\'https://daohanggou.cn/\'>DaoHangGou.cn</a>");
-document.writeln("	&nbsp;<a href=\'http://daohanggou.wang\'>DaoHangGou.wang</a>");
+document.writeln("	&nbsp;<a href=\'http://dhg.wiki\'>dhg.wiki</a>");
 document.writeln("	&nbsp;<a href=\'https://daohanggou.cn/help/about.html\'>About</a>");
 document.writeln("	&nbsp;<a href=\'http://zhaokaifeng.com/?cat=168\'>Log</a>");
 document.writeln("	&nbsp;<a href=\'https://github.com/somebodyblog/IT-Web-Site-Navigation\'><img src=\'https://daohanggou.cn/static/image/footer/github.svg' height=\'20px\'></a>");
